@@ -15,6 +15,7 @@
     - cmp: Compositing
     - edt: Editing
     - dev: Development
+    - txt: Texturing
   - uselocalfiles: false
   - track_dependencies: publish
   - checkframerange: true
@@ -45,6 +46,7 @@
   - Natron_version: 2.3.13
   - Nuke_version: 11.0v1
   - Photoshop_version: 13.0.0
+  - useStrictAssetDetection: false
 - paths: !!omap
   - pipeline: 00_Pipeline
   - scenes: 03_Workflow
@@ -232,3 +234,4 @@
   - projectname: ''
   - scriptname: ''
   - apikey: ''
+- export_paths: []

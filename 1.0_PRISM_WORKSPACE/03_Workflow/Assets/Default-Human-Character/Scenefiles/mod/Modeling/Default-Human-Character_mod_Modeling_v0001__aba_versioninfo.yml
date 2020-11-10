@@ -1,0 +1,12 @@
+!!omap
+- basePath: D:/SAE/Tri320202/Studio3/IGOTTAGOAT_Project/IGAG_Project/1.0_PRISM_WORKSPACE/03_Workflow/Assets/Default-Human-Character/Scenefiles/mod/Modeling
+- filename: D:/SAE/Tri320202/Studio3/IGOTTAGOAT_Project/IGAG_Project/1.0_PRISM_WORKSPACE/03_Workflow/Assets/Default-Human-Character/Scenefiles/mod/Modeling/Default-Human-Character_mod_Modeling_v0001__aba_.ma
+- entity: asset
+- entityName: Default-Human-Character
+- step: mod
+- category: Modeling
+- version: v0001
+- comment: ''
+- user: aba
+- extension: .ma
+- username: Anton Barker

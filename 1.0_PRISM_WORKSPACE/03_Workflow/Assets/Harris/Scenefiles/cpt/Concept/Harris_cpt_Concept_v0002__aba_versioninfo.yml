@@ -1,0 +1,12 @@
+!!omap
+- basePath: D:/SAE/Tri320202/Studio3/IGOTTAGOAT_Project/IGAG_Project/1.0_PRISM_WORKSPACE/03_Workflow/Assets/Harris/Scenefiles/cpt/Concept
+- filename: D:/SAE/Tri320202/Studio3/IGOTTAGOAT_Project/IGAG_Project/1.0_PRISM_WORKSPACE/03_Workflow/Assets/Harris/Scenefiles/cpt/Concept/Harris_cpt_Concept_v0002__aba_.psd
+- entity: asset
+- entityName: Harris
+- step: cpt
+- category: Concept
+- version: v0002
+- comment: ''
+- user: aba
+- extension: .psd
+- username: Anton Barker

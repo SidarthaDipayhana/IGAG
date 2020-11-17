@@ -1,0 +1,22 @@
+!!omap
+- category: Modeling
+- comment: For-Presentation
+- extension: .ma
+- basePath: D:/SAE/Tri320202/Studio3/IGOTTAGOAT_Project/IGAG_Project/1.0_PRISM_WORKSPACE/03_Workflow/Assets/Default-Human-Character/Scenefiles/mod/Modeling
+- filename: D:/SAE/Tri320202/Studio3/IGOTTAGOAT_Project/IGAG_Project/1.0_PRISM_WORKSPACE/03_Workflow/Assets/Default-Human-Character/Scenefiles/mod/Modeling/Default-Human-Character_mod_Modeling_v0005_For-Presentation_aba_.ma
+- username: Anton Barker
+- step: mod
+- version: v0005
+- user: aba
+- entity: asset
+- entityName: Default-Human-Character
+- information: !!omap
+  - Version: v0005
+  - Creation date: 10.11.20 23:09:40
+  - filename: Default-Human-Character_mod_Modeling_v0005_For-Presentation_aba_.ma
+  - Dependencies: []
+  - Created by: Anton Barker
+  - FPS: 24.0
+  - External files:
+    - D:\SAE\Tri320202\Studio3\IGOTTAGOAT_Project\IGAG_Project\1.0_PRISM_WORKSPACE\03_Workflow\Assets\Default-Human-Character\Scenefiles\mod\Modeling\Default-Human-Character_mod_Modeling_v0005_For-Presentation_aba_.ma
+    - D:\SAE\Tri320202\Studio3\IGOTTAGOAT_Project\IGAG_Project\1.0_PRISM_WORKSPACE\03_Workflow\Assets\Default-Human-Character\Scenefiles\cpt\Concept\CMS1.png

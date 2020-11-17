@@ -1,0 +1,41 @@
+!!omap
+- category: Head
+- comment: FaceRig-Export
+- extension: .ma
+- basePath: D:/SAE/Tri320202/Studio3/IGOTTAGOAT_Project/IGAG_Project/1.0_PRISM_WORKSPACE/03_Workflow/Assets/Default-Human-Character/Scenefiles/rig/Head
+- filename: D:/SAE/Tri320202/Studio3/IGOTTAGOAT_Project/IGAG_Project/1.0_PRISM_WORKSPACE/03_Workflow/Assets/Default-Human-Character/Scenefiles/rig/Head/Default-Human-Character_rig_Head_v0002_FaceRig-Export_aba_.ma
+- username: Anton Barker
+- step: rig
+- version: v0002
+- user: aba
+- entity: asset
+- entityName: Default-Human-Character
+- information: !!omap
+  - Version: v0002
+  - Creation date: 17.11.20 14:37:12
+  - filename: Default-Human-Character_rig_Head_v0002_FaceRig-Export_aba_.ma
+  - Dependencies: []
+  - Created by: Anton Barker
+  - FPS: 24.0
+  - External files:
+    - D:\SAE\Tri320202\Studio3\IGOTTAGOAT_Project\IGAG_Project\scenes\Assets\Characters\Facial
+      Rig Test\EyeBlinking\EYERIG1.png
+    - D:\SAE\Tri320202\Studio3\IGOTTAGOAT_Project\IGAG_Project\scenes\Assets\Characters\Facial
+      Rig Test\EyeBlinking\EYERIG3.png
+    - D:\SAE\Tri320202\Studio3\IGOTTAGOAT_Project\IGAG_Project\scenes\Assets\Characters\Facial
+      Rig Test\EyeBlinking\EYERIG2.png
+    - D:\SAE\Tri320202\Studio3\IGOTTAGOAT_Project\IGAG_Project\1.0_PRISM_WORKSPACE\03_Workflow\Assets\Default-Human-Character\Scenefiles\rig\Head\Default-Human-Character_rig_Head_v0002_FaceRig-Export_aba_.ma
+    - D:\SAE\Tri320202\Studio3\IGOTTAGOAT_Project\IGAG_Project\scenes\Assets\Characters\Facial
+      Rig Test\mouthphonomes\MouthPhonomes0.png
+    - D:\SAE\Tri320202\Studio3\IGOTTAGOAT_Project\IGAG_Project\scenes\Assets\Characters\Facial
+      Rig Test\mouthphonomes\MouthPhonomes1.png
+    - D:\SAE\Tri320202\Studio3\IGOTTAGOAT_Project\IGAG_Project\scenes\Assets\Characters\Facial
+      Rig Test\mouthphonomes\MouthPhonomes2.png
+    - D:\SAE\Tri320202\Studio3\IGOTTAGOAT_Project\IGAG_Project\scenes\Assets\Characters\Facial
+      Rig Test\mouthphonomes\MouthPhonomes3.png
+    - D:\SAE\Tri320202\Studio3\IGOTTAGOAT_Project\IGAG_Project\scenes\Assets\Characters\Facial
+      Rig Test\mouthphonomes\MouthPhonomes4.png
+    - D:\SAE\Tri320202\Studio3\IGOTTAGOAT_Project\IGAG_Project\scenes\Assets\Characters\Facial
+      Rig Test\mouthphonomes\MouthPhonomes5.png
+    - D:\SAE\Tri320202\Studio3\IGOTTAGOAT_Project\IGAG_Project\scenes\Assets\Characters\Facial
+      Rig Test\mouthphonomes\MouthPhonomes6.png

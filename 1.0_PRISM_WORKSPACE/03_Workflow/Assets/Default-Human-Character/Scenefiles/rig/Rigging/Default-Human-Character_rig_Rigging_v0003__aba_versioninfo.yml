@@ -1,0 +1,12 @@
+!!omap
+- basePath: D:/SAE/Tri320202/Studio3/IGOTTAGOAT_Project/IGAG_Project/1.0_PRISM_WORKSPACE/03_Workflow/Assets/Default-Human-Character/Scenefiles/rig/Rigging
+- filename: D:/SAE/Tri320202/Studio3/IGOTTAGOAT_Project/IGAG_Project/1.0_PRISM_WORKSPACE/03_Workflow/Assets/Default-Human-Character/Scenefiles/rig/Rigging/Default-Human-Character_rig_Rigging_v0003__aba_.ma
+- entity: asset
+- entityName: Default-Human-Character
+- step: rig
+- category: Rigging
+- version: v0003
+- comment: ''
+- user: aba
+- extension: .ma
+- username: Anton Barker

@@ -1,6 +1,6 @@
 //Maya ASCII 2019 scene
 //Name: Couch Asset.ma
-//Last modified: Tue, Nov 17, 2020 10:24:52 PM
+//Last modified: Tue, Nov 17, 2020 10:27:35 PM
 //Codeset: 1252
 requires maya "2019";
 requires "mtoa" "3.1.2";
@@ -14,8 +14,8 @@ fileInfo "license" "student";
 createNode transform -s -n "persp";
 	rename -uid "623F9FD5-4B08-4B71-C6D5-57A561A904B6";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 9.8207589957786254 13.771137054036302 22.087131912965603 ;
-	setAttr ".r" -type "double3" -24.938352729591706 -1420.5999999999126 0 ;
+	setAttr ".t" -type "double3" -1.6580151671263526 9.393846586437526 24.948534457890656 ;
+	setAttr ".r" -type "double3" -15.338352729602359 -1446.5999999996868 -4.0022169818838992e-16 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "959C0A20-4E34-F740-B8FE-A1A03ADA2939";
 	setAttr -k off ".v" no;
